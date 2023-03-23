@@ -5,8 +5,8 @@
 <p align="left">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bencyc1129&show_icons=true&locale=en&layout=compact" alt="bencyc1129" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bencyc1129&show_icons=true&locale=en&layout=compact" alt="bencyc1129" /></p>  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bencyc1129&show_icons=true&locale=en" alt="bencyc1129" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bencyc1129&show_icons=true&locale=en" alt="bencyc1129" /></p>  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bencyc1129&" alt="bencyc1129" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bencyc1129&" alt="bencyc1129" /></p>  
